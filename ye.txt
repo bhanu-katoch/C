@@ -1,0 +1,2 @@
+gcc -Wall -save-temps main.c -o ye
+gcc dynamic_memory_t45.c; size ./a.out
